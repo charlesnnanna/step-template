@@ -6,7 +6,7 @@ function StepOne(props) {
     const { handleStep, previousStep, nextStep, activeStep } = useWizard()
 
     handleStep(() => {
-    
+        
 
     })
 
