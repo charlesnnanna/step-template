@@ -1,0 +1,11 @@
+.initial-margin{
+    margin-left: 5px;
+}
+
+.current-margin{
+    margin-left: 0;
+}
+
+.step-transition{
+    transition: margin-left 2s;
+}
